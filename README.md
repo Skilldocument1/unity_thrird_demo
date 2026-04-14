@@ -1,6 +1,6 @@
 # 玩家角色控制器文档
 
-本文档基于 Unity MCP 对当前场景 `Assets/Scenes/GameScene.unity` 中 `玩家` 对象的读取结果整理，用于在另一个 Unity 项目中复现同一套第三人称 ARPG 角色控制器。
+本文档基于 Unity MCP 对当前场景 `Assets/Scenes/GameScene.unity` 中 `玩家` 对象的读取结果整理一套第三人称 ARPG 角色控制器。
 
 读取到的玩家对象：
 
